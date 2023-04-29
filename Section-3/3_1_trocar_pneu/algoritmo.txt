@@ -1,0 +1,11 @@
+- Retirar o macaco do carro
+- Afrouxar os parafusos do pneu
+- Iça o carro com o macaco
+- Terminar de desparafusar
+- Retirar o pneu furado
+- Colocar o stepe no eixo
+- Parafusar o pneu
+- Abaixar o carro
+- Retirar o macaco do carro
+- Guardar o macaco
+- Guardar o pneu furado
